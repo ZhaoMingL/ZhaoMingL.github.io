@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "抖音",
 			icon: "fa6-brands:tiktok",
-			url: "https://www.douyin.com/user/MS4wLjABAAAArds-biowgG1qz0O-yP47ILSfeaywXlgPMPBNo-Vi5EKMX1FH38yc5JWML3z8MAmr?from_tab_name=main", 
+			url: "https://www.douyin.com/user/MS4wLjABAAAArds-biowgG1qz0O-yP47ILSfeaywXlgPMPBNo-Vi5EKMX1FH38yc5JWML3z8MAmr?from_tab_name=main",
 		},
 		{
 			name: "GitHub",
