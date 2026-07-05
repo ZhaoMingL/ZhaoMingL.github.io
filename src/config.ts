@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "/images/nadeshoko_icon.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "LiZhaoMing",
-	bio: "来自中国的经济学硕士生，兴趣比较广泛。", // A short bio or description of yourself
+	bio: "来自中国的经济学硕士生，兴趣比较广泛，主要有游戏、动漫、摄影、听歌等", // A short bio or description of yourself
 	links: [
 		{
 			name: "Steam",
@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "抖音",
 			icon: "fa6-brands:tiktok",
-			url: "", // TODO: 填你的抖音主页链接
+			url: "https://www.douyin.com/user/MS4wLjABAAAArds-biowgG1qz0O-yP47ILSfeaywXlgPMPBNo-Vi5EKMX1FH38yc5JWML3z8MAmr?from_tab_name=main", 
 		},
 		{
 			name: "GitHub",
